@@ -10,4 +10,4 @@
 
 <img width="347" height="288" alt="image" src="https://github.com/user-attachments/assets/e3ea594c-18bf-43a9-851e-1a2d2b8413a6" />
 
-'Se diverta'
+`Se diverta`
