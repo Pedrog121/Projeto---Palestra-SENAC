@@ -2,8 +2,9 @@
 ## Feito em 28/10 2026
 
 **Teste, testando**
--Teste 1
--Teste 2
+
+- Teste 1
+- Teste 2
 
 -[Clique aqui para jogar gameles](https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital)
 
